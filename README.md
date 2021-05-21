@@ -10,7 +10,7 @@ git clone https://github.com/jstonedev/triline
 
 ### 2. Run the app
 
-Now that the server is running, you can start the React app as well. The commands need to be run in a new terminal tab/window inside the root directory `hackernews-clone-react` (because the current tab is blocked by the process running the server):
+Inside the root directory `triline`:
 
 ```sh
 yarn install
